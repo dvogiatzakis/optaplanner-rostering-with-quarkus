@@ -1,0 +1,12 @@
+C:\Users\Dimitris\Desktop\NurseRostering\quarkus-optaplanner-rostering\src\main\java\org\acme\domain\ShiftType.java
+C:\Users\Dimitris\Desktop\NurseRostering\quarkus-optaplanner-rostering\src\main\java\org\acme\rest\ShiftTypeResource.java
+C:\Users\Dimitris\Desktop\NurseRostering\quarkus-optaplanner-rostering\src\main\java\org\acme\domain\Roster.java
+C:\Users\Dimitris\Desktop\NurseRostering\quarkus-optaplanner-rostering\src\main\java\org\acme\bootstrap\DemoDataGenerator.java
+C:\Users\Dimitris\Desktop\NurseRostering\quarkus-optaplanner-rostering\src\main\java\org\acme\domain\ShiftAssignment.java
+C:\Users\Dimitris\Desktop\NurseRostering\quarkus-optaplanner-rostering\src\main\java\org\acme\domain\Employee.java
+C:\Users\Dimitris\Desktop\NurseRostering\quarkus-optaplanner-rostering\src\main\java\org\acme\domain\Shift.java
+C:\Users\Dimitris\Desktop\NurseRostering\quarkus-optaplanner-rostering\src\main\java\org\acme\rest\ShiftAssignmentResource.java
+C:\Users\Dimitris\Desktop\NurseRostering\quarkus-optaplanner-rostering\src\main\java\org\acme\rest\ShiftResource.java
+C:\Users\Dimitris\Desktop\NurseRostering\quarkus-optaplanner-rostering\src\main\java\org\acme\rest\EmployeeResource.java
+C:\Users\Dimitris\Desktop\NurseRostering\quarkus-optaplanner-rostering\src\main\java\org\acme\solver\RosterConstraintProvider.java
+C:\Users\Dimitris\Desktop\NurseRostering\quarkus-optaplanner-rostering\src\main\java\org\acme\rest\RosterResource.java

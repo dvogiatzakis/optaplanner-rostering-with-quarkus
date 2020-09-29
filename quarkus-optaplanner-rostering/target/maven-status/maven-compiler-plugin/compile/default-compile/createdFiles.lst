@@ -1,0 +1,4 @@
+org\acme\rest\RosterResource.class
+org\acme\rest\EmployeeResource.class
+org\acme\rest\ShiftAssignmentResource.class
+org\acme\rest\ShiftResource.class
